@@ -10,7 +10,7 @@ public class PasswordsMatchesValidator implements ConstraintValidator<PasswordsM
 
     @Override
     public void initialize(PasswordsMatches constraintAnnotation) {
-        ConstraintValidator.super.initialize(constraintAnnotation);
+
     }
 
     @Override
